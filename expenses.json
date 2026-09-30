@@ -1,0 +1,49 @@
+[
+    {
+        "name": "C:\\Users\\sandr\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/sandr/OneDrive/Desktop/Student_expense_tracker/expense_manager.py",
+        "amount": 2.0
+    },
+    {
+        "name": "C:\\Users\\sandr\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/sandr/OneDrive/Desktop/Student_expense_tracker/expense_manager.py",
+        "amount": 1.0
+    },
+    {
+        "name": "lunch",
+        "amount": 50.0
+    },
+    {
+        "name": "50",
+        "amount": 500.0
+    },
+    {
+        "name": "lunch",
+        "amount": 300.0
+    },
+    {
+        "name": "2",
+        "amount": 3.0
+    },
+    {
+        "name": "2",
+        "amount": 3.0
+    },
+    {
+        "name": "2",
+        "amount": 3.0
+    },
+    {
+        "name": "& C:\\Users\\sandr\\AppData\\Local\\Python\\pythoncore-3.14-64\\python.exe c:/Users/sandr/OneDrive/Desktop/Student_expense_tracker/main.py",
+        "amount": 300.0,
+        "category": "Other"
+    },
+    {
+        "name": "20",
+        "amount": 300.0,
+        "category": "Other"
+    },
+    {
+        "name": "lunch",
+        "amount": 300.0,
+        "category": "Food"
+    }
+]
